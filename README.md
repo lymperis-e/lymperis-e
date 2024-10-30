@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lymperis-e&label=Profile%20views&color=0e75b6&style=flat" alt="lymperis-e" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **QGIS, OGC standards, Leaflet, MapLibreGL and all things geospatial!**
+- 💬 Ask me about **QGIS, Python/Django, OGC standards, MapLibreGL and all things geospatial!**
 
 - 📫 How to reach me **geo.elymperis@gmail.com**
 
